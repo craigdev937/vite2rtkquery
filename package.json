@@ -1,0 +1,39 @@
+{
+  "name": "vite2rtkquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigomx9/vite2rtkquery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigomx9/vite2rtkquery/issues"
+  },
+  "homepage": "https://github.com/indigomx9/vite2rtkquery#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.28",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.1",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.6"
+  }
+}
+
+
